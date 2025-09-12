@@ -41,6 +41,11 @@ import img16 from './img16.jpg'
 import song1 from  './song1.mp3'
 import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
+import song4 from  './song4.mp3'
+import song5 from  './song5.mp3'
+import song7 from  './song7.mp3'
+import song12 from  './song12.mp3'
+import song14 from  './song14.mp3'
 
 export const assets = {
     bell_icon,
@@ -117,66 +122,66 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "Ragile Ragile",
         image: img1,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"3:00"
+        desc:"Enjoy Ragile Ragile Full Audio Song from the movie Kingdom.",
+        duration:"5:03"
     },
     {
         id:1,
-        name: "Song Two",
+        name: "Powerhouse",
         image: img2,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:20"
+        desc:"(From Coolie) (Telugu) · Anirudh Ravichander · Rambabu Gosala · Arivu",
+        duration:"3:26"
     },
     {
         id:2,
-        name: "Song Three",
+        name: "Vibe Undi",
         image: img3,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:32"
+        desc:"It’s time to dance with Vibe Undi from Mirai! ",
+        duration:"3:22"
     },
     {
         id:3,
-        name: "Song Four",
+        name: "Hungry Cheetah",
         image: img4,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:50"
+        file:song4,
+        desc:"(From They Call Him OG) · Thaman S · Raghuram",
+        duration:"1:59"
     },
     {
         id:4,
-        name: "Song Five",
+        name: "Chaduvu Ledu",
         image: img5,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"3:10"
+        file:song5,
+        desc:"from the Movie Little Hearts on Aditya Music",
+        duration:"3:24"
     },
     {
         id:5,
-        name: "Song Six",
+        name: "Kollagottinadhiro",
         image: img14    ,
-        file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:45"
+        file:song14,
+        desc:"Experience our folksy foot-tapping from 'Hari Hara Veera Mallu ",
+        duration:"4:28"
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "Salam Anali",
         image: img7,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:18"
+        file:song7,
+        desc:"You loved it in theatres and now you can dance on it anywhere",
+        duration:"3:35"
     },
     {
         id:7,
-        name: "Song Eight",
+        name: "Nuvvunte Chaley",
         image: img12,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:35"
+        file:song12,
+        desc:"This is more than a song. This is Sagar's love journey!",
+        duration:"4:00"
     }
 ]
