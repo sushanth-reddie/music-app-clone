@@ -1,16 +1,54 @@
-<<<<<<< HEAD
-# React + Vite
+# Music App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern music streaming web app built with **React, Vite, and TailwindCSS**.  
+Browse, play, and enjoy your favorite tracks with a sleek and responsive UI.
 
-Currently, two official plugins are available:
+##  Features
+-  Stream and play music seamlessly  
+-  Responsive design with TailwindCSS  
+-  Fast development powered by Vite  
+-  Modular React components  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Installation
 
-## Expanding the ESLint configuration
+Clone the repository and install dependencies:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# music-app-clone
->>>>>>> 28fd4f917037eb34a621582d60df95ffd40821da
+```bash
+git clone https://github.com/your-username/music-app.git
+cd music-app
+npm install
+```
+
+##  Usage
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Preview production build:
+
+```bash
+npm run preview
+```
+
+##  Project Structure
+- **src/** → React components, assets, and context  
+- **public/** → Static files  
+- **dist/** → Production build output  
+
+##  Tech Stack
+- React  
+- Vite  
+- TailwindCSS  
+- React Router  
+
+##  License
+This project is licensed under the MIT License.
